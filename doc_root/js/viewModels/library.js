@@ -12,7 +12,7 @@ define(['ojs/ojcore', 'knockout', 'jquery', 'ojs/ojcheckboxset', 'ojs/ojinputtex
 
                 var self = this;
 
-                var root = 'https://nodeapicontainer-gse00001975.apaas.em2.oraclecloud.com/instructional/instructors/disciplines/';
+                var root = 'https://nodeapicontainer-idcs-0c778fad7c044266a57cce8650680fe2.apaas.us2.oraclecloud.com/instructional/instructors/disciplines/';
 
                 // Switch to this URL to run through the API Platform (note, http content isn't allowed to be served in an https page). 
                 // To demo this, just run this application locally
